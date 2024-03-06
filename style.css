@@ -5,3 +5,25 @@
 .div-facilidade {
     width: 325px;
 }
+
+.verde-limao {
+    color: #daff01;
+}
+
+.botao-lilas{
+    background-color: #9353FF;
+    border-radius: 3px;
+    padding: 10px;
+    color:#fff;
+    text-decoration: none;
+ }
+ 
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
