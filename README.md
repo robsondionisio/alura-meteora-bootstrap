@@ -21,7 +21,7 @@ Este repositório contém o código-fonte do projeto Meteora, um ecommerce de mo
 
 ## Acesso ao projeto
 
-Você pode acessar o projeto clicando: [aqui](https://www.google.com)
+Você pode acessar o projeto clicando: [aqui](https://comforting-khapse-70719a.netlify.app/)
 
 ## Licença
 
