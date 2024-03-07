@@ -19,6 +19,14 @@ Este repositório contém o código-fonte do projeto Meteora, um ecommerce de mo
 - Adição de estilos personalizados para complementar as funcionalidades do Bootstrap
 - Garantia de acessibilidade utilizando recursos disponíveis no Bootstrap
 
+## Responsividade
+
+O site é responsivo e se adapta a diferentes tamanhos de tela. Abaixo estão os breakpoints definidos:
+
+- `< 767px` para dispositivos móveis
+- `>= 768px` para tablets
+- `>= 1400px` para desktops
+
 ## Acesso ao projeto
 
 Você pode acessar o projeto clicando: [aqui](https://meteora-alura-robsondionisio.netlify.app/)
