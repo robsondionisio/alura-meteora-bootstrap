@@ -19,6 +19,10 @@ Este repositório contém o código-fonte do projeto Meteora, um ecommerce de mo
 - Adição de estilos personalizados para complementar as funcionalidades do Bootstrap
 - Garantia de acessibilidade utilizando recursos disponíveis no Bootstrap
 
+## Acesso ao projeto
+
+Você pode acessar o projeto clicando [aqui](https://www.google.com)
+
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT.
